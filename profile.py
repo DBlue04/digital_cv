@@ -70,18 +70,31 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
 # --- Education ---
 st.write('\n')
 st.subheader("Education")
+st.write("---")
 st.write(
     """
 - :book: VNU-HCM UNIVERSITY OF SCIENCE - 2021 to Present
 """
 )
 
+# --- Certificates ---
+st.write('\n')
+st.subheader("Experience & Qualifications")
+st.write("---")
+st.write(
+    """
+- :crown: Google Data Analytics (10/08/2023)
+- :crown: Data Analyst with Python (03/09/2023)
+"""
+)
+
+
 # --- EXPERIENCE & QUALIFICATIONS ---
 st.write('\n')
 st.subheader("Experience & Qualifications")
+st.write("---")
 st.write(
     """
-- ✔️ Google Data Analytics (10/08/2023), Data Analyst with Python (03/09/2023)
 - ✔️ Strong hands on experience and knowledge in Python and Excel
 - ✔️ Good understanding of statistical principles and their respective applications
 - ✔️ Excellent team-player and displaying strong sense of initiative on tasks
@@ -92,6 +105,7 @@ st.write(
 # --- SKILLS ---
 st.write('\n')
 st.subheader("Hard Skills")
+st.write("---")
 st.write(
     """
 - 👩‍💻 Programming: Python (Scikit-learn, Pandas,...), SQL, C++
