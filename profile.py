@@ -110,7 +110,7 @@ st.write(
     """
 - 👩‍💻 Programming: Python (Scikit-learn, Pandas,...), SQL, C++
 - 📊 Data Visulization: Tableau, PowerBI, MS Excel, Plotly
-- 📚 Modeling: Logistic regression, Linear regression, Decition trees, LSTM
+- 📚 Modeling: Logistic Regression, Linear Regression, Decision trees, LSTM
 - 🗄️ Databases: MySQL
 """
 )
