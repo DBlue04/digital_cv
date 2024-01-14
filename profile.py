@@ -14,7 +14,7 @@ PAGE_TITLE = "Digital CV | Nguyen Duc Tuan Dat"
 PAGE_ICON = ":wave:"
 NAME = "Nguyen Duc Tuan Dat"
 DESCRIPTION = """
-Data Scientist
+Data Scientist | Data Analyst
 """
 EMAIL = "ndtdat.data@email.com"
 SOCIAL_MEDIA = {
