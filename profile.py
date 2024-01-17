@@ -79,7 +79,7 @@ st.write(
 
 # --- Certificates ---
 st.write('\n')
-st.subheader("Experience & Qualifications")
+st.subheader("Certificates")
 st.write("---")
 st.write(
     """
